@@ -1,0 +1,64 @@
+{
+  "locations": [
+    {
+      "title": "The Pump Room",
+      "place": "Bath",
+      "latitude": 51.38131,
+      "longitude": -2.35959,
+      "information": "The Pump Room Restaurant in Bath is one of the city’s most elegant places to enjoy stylish, Modern-British cuisine.",
+      "telephone": "+44 (0)1225 444477",
+      "url": "http://www.romanbaths.co.uk",
+      "visited" : true
+    },
+    {
+      "title": "The Eye",
+      "place": "London",
+      "latitude": 51.502866,
+      "longitude": -0.119483,
+      "information": "At 135m, the London Eye is the world’s largest cantilevered observation wheel. It was designed by Marks Barfield Architects and launched in 2000.",
+      "telephone": "+44 (0)8717 813000",
+      "url": "http://www.londoneye.com",
+      "visited" : false
+    },
+    {
+      "title": "Chalice Well",
+      "place": "Glastonbury",
+      "latitude": 51.143669,
+      "longitude": -2.706782,
+      "information": "Chalice Well is one of Britain's most ancient wells, nestling in the Vale of Avalon between the famous Glastonbury Tor and Chalice Hill.",
+      "telephone": "+44 (0)1458 831154",
+      "url": "http://www.chalicewell.org.uk",
+      "visited" : true
+    },
+    {
+      "title": "Tate Modern",
+      "place": "London",
+      "latitude": 51.507774,
+      "longitude": -0.099446,
+      "information": "Tate Modern is a modern art gallery located in London. It is Britain's national gallery of international modern art and forms part of the Tate group.",
+      "telephone": "+44 (0)20 7887 8888",
+      "url": "http://www.tate.org.uk",
+      "visited" : true
+    },
+    {
+      "title": "Eiffel Tower",
+      "place": "Paris",
+      "latitude": 48.858271,
+      "longitude": 2.294114,
+      "information": "The Eiffel Tower (French: La Tour Eiffel, is an iron lattice tower located on the Champ de Mars in Paris.",
+      "telephone": "+33 892 70 12 39",
+      "url": "http://www.tour-eiffel.fr",
+      "visited" : false
+    },
+    {
+      "title": "Parc Guell",
+      "place": "Barcelona",
+      "latitude": 41.414483,
+      "longitude": 2.152579,
+      "information": "Parc Guell is a garden complex with architectural elements situated on the hill of El Carmel in the Gràcia district of Barcelona.",
+      "telephone": "+34 902 20 03 02",
+      "url": "http://www.parkguell.es",
+      "visited" : false
+    }
+  ]
+}
